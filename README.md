@@ -52,8 +52,6 @@
 
 ## About The Project
 
-<img src="assets/example.png" alt="Image of product">
-
 It generates and checks discord nitro codes at the same time for maximum efficiency
 
 ### Built With
@@ -130,7 +128,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Contact
 
-Logicguy - [@AbrasiveTax49#1051(https://www.discordapp.com) - abrasive.tax@gmail.com
+AbrasiveTax49 - [@AbrasiveTax49#1051(https://www.discordapp.com) - abrasive.tax@gmail.com
 p
 <!-- Statistics -->  
 
